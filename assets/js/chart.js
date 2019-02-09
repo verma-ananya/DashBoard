@@ -528,4 +528,3 @@ function convert_case(str) {
 
 
 
-
